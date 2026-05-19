@@ -1,0 +1,15 @@
+<svg class="logo-icon" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo -->
+  <circle cx="40" cy="40" r="30" stroke="#c8862a" stroke-width="1.5" fill="none" opacity="0.4"></circle>
+
+  <!-- Letra S estilizada -->
+  <path d="M48 22
+           C44 18, 34 18, 30 24
+           C26 30, 30 36, 38 38
+           C46 40, 50 42, 50 48
+           C50 54, 44 58, 36 58
+           C31 58, 27 56, 24 53" stroke="#e8a84a" stroke-width="3" stroke-linecap="round" fill="none"></path>
+
+  <!-- detalhe/brilho -->
+  <path d="M45 20 C50 20 54 23 55 27" stroke="#c8862a" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.8"></path>
+</svg>
