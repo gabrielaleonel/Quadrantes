@@ -1,0 +1,172 @@
+[
+  {
+    "id": "bandeira-2012",
+    "name": "1 Real - Entrega da Bandeira Olímpica",
+    "year": 2012,
+    "sport": "Cerimônia - Entrega da Bandeira Olímpica",
+    "category": "comemorativa",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-da-bandeira-c14a8c53da30a18a1717738419056347-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Comemora a entrega da bandeira olímpica de Londres para o Rio de Janeiro. Anverso com a bandeira olímpica, os cinco anéis, a logomarca Rio 2016 e as legendas 'Londres 2012 - Rio 2016'. Reverso padrão marajoara."
+  },
+  {
+    "id": "atletismo-2014",
+    "name": "1 Real - Atletismo",
+    "year": 2014,
+    "sport": "Atletismo",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-atletismo-cdfee7c0fbf69613f617600358949771-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Primeira série (2014). Anverso com dois corredores em ação em uma pista de atletismo, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "golfe-2014",
+    "name": "1 Real - Golfe",
+    "year": 2014,
+    "sport": "Golfe",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-golfe-9126764ca5e2f761cf17600362842441-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Primeira série (2014). Anverso com um golfista em movimento de swing, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "natacao-2014",
+    "name": "1 Real - Natação",
+    "year": 2014,
+    "sport": "Natação",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moedas-natacao-25ddcf1a5eb4a8284017600360909012-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Primeira série (2014). Anverso com dois nadadores em ação na piscina, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "paratriatlo-2014",
+    "name": "1 Real - Paratriatlo",
+    "year": 2014,
+    "sport": "Paratriatlo",
+    "category": "paralimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-paratriatlo-65c7c185a9c06b333217600361979387-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Primeira série paralímpica (2014). Anverso com um paratleta em três momentos da competição (corrida, natação e ciclismo), com a logomarca dos Jogos Paralímpicos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "basquete-2015",
+    "name": "1 Real - Basquetebol",
+    "year": 2015,
+    "sport": "Basquetebol",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-basquete-d77f6f9edb0588edb017600366129270-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Segunda série (2015). Anverso com uma mão arremessando a bola na cesta, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "rugbi-2015",
+    "name": "1 Real - Rúgbi",
+    "year": 2015,
+    "sport": "Rúgbi",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/003/480/739/products/capture-2e51263806d30328a017516028291238-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Segunda série (2015). Anverso com dois jogadores de rúgbi em disputa pela bola, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "futebol-2015",
+    "name": "1 Real - Futebol",
+    "year": 2015,
+    "sport": "Futebol",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-futebol-10fccf09031711600c17600376407096-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Terceira série (2015). Anverso com um jogador realizando um chute na bola, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "judo-2015",
+    "name": "1 Real - Judô",
+    "year": 2015,
+    "sport": "Judô",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-judo-3f1e65115c6a05369e17600394670324-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Terceira série (2015). Anverso com dois judocas em momento de combate (golpe), com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "vela-2015",
+    "name": "1 Real - Vela",
+    "year": 2015,
+    "sport": "Vela",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-vela-fbe730c851a09ed26b17600367761139-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Segunda série (2015). Anverso com um veleiro em águas brasileiras, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "voleibol-2015",
+    "name": "1 Real - Voleibol",
+    "year": 2015,
+    "sport": "Voleibol",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-volei-c56b06ee642669cca817600377558408-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Terceira série (2015). Anverso com uma rede e uma bola em momento de ataque, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "atletismo-paraolimpico-2015",
+    "name": "1 Real - Atletismo Paraolímpico",
+    "year": 2015,
+    "sport": "Atletismo Paraolímpico",
+    "category": "paralimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/1-real-atletismo-0a6eaac6fabb6b5eba17600382768960-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Segunda série paralímpica (2015). Anverso com um paratleta em cadeira de rodas em movimento, com a logomarca dos Jogos Paralímpicos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "paracanoagem-2015",
+    "name": "1 Real - Paracanoagem",
+    "year": 2015,
+    "sport": "Paracanoagem",
+    "category": "paralimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/1-real-2015-paracanoagem-8851c8b75076c14a6617600370097273-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Segunda série paralímpica (2015). Anverso com um paratleta em uma canoa, com a logomarca dos Jogos Paralímpicos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "boxe-2016",
+    "name": "1 Real - Boxe",
+    "year": 2016,
+    "sport": "Boxe",
+    "category": "olimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/moeda-1-real-boxe-ec14a4e91f68e716d617600396158394-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Quarta série (2016). Anverso com dois boxeadores em combate, com a logomarca oficial dos Jogos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "natacao-paralimpica-2016",
+    "name": "1 Real - Natação Paralímpica",
+    "year": 2016,
+    "sport": "Natação Paralímpica",
+    "category": "paralimpica",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/1-real-2016-natacao-paralimpica-fc13b1b4596e0ddce317600399923377-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Quarta série paralímpica (2016). Anverso com dois nadadores paralímpicos em ação na piscina, com a logomarca dos Jogos Paralímpicos Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "mascote-vinicius-2016",
+    "name": "1 Real - Mascote Vinícius",
+    "year": 2016,
+    "sport": "Mascote Olímpico Vinícius",
+    "category": "mascote",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/1-real-mascote-cf2dd0182c31ef0b8f17600401027470-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Mascote oficial dos Jogos Olímpicos Rio 2016. Anverso com a figura estilizada do mascote Vinícius, inspirado na fauna brasileira, com a logomarca Rio 2016. Reverso padrão marajoara."
+  },
+  {
+    "id": "mascote-tom-2016",
+    "name": "1 Real - Mascote Tom",
+    "year": 2016,
+    "sport": "Mascote Paralímpico Tom",
+    "category": "mascote",
+    "obverseUrl": "https://acdn-us.mitiendanube.com/stores/002/379/691/products/1-real-2016-mascote-tom-d2442d6b498224a24017600402059829-480-0.webp",
+    "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasil_coin_1_real-2.jpg",
+    "description": "Mascote oficial dos Jogos Paralímpicos Rio 2016. Anverso com a figura estilizada do mascote Tom, inspirado na flora brasileira, com a logomarca Rio 2016. Reverso padrão marajoara."
+  }
+]
